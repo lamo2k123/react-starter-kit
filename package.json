@@ -29,7 +29,7 @@
     "normalize.css": "4.1.1",
     "passport": "0.3.2",
     "passport-facebook": "2.1.1",
-    "pretty-error": "2.0.0",
+    "pretty-error": "4.0.0",
     "react": "15.1.0",
     "react-dom": "15.1.0",
     "sequelize": "3.23.3",
